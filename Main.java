@@ -1,3 +1,8 @@
+//Name:Devan Patel
+//Date: 11/13/2024
+//Program: Conversion Program
+//Purpose:  Convert various data sets with ease
+
 import java.util.Scanner;
 
 class Main {
